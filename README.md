@@ -1,4 +1,4 @@
-one-click-site-opener
+One Click Site Opener
 =====================
 
 opens your favorite websites in one click.
